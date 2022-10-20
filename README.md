@@ -1,2 +1,5 @@
-# css-grid
-Normal css grid layout....
+# BLOG
+Normal Article Layout using CSS Grid.
+
+
+
